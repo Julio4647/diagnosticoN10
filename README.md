@@ -1,1 +1,2 @@
 # diagnosticoN10
+1
