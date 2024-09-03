@@ -1,0 +1,1 @@
+# diagnosticoN10
